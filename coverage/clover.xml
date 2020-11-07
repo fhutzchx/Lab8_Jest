@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1604739180626" clover="3.2.0">
-  <project timestamp="1604739180626" name="All files">
+<coverage generated="1604739556775" clover="3.2.0">
+  <project timestamp="1604739556775" name="All files">
     <metrics statements="20" coveredstatements="20" conditionals="11" coveredconditionals="11" methods="4" coveredmethods="4" elements="35" coveredelements="35" complexity="0" loc="20" ncloc="20" packages="1" files="2" classes="2"/>
     <file name="fizzbuzz.js" path="C:\Users\User\OneDrive\Documents\GitHub\Lab8_Jest\fizzbuzz.js">
       <metrics statements="16" coveredstatements="16" conditionals="8" coveredconditionals="8" methods="2" coveredmethods="2"/>
